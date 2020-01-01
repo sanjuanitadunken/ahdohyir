@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eihohbieko.360thames.com/sitemap.xml
